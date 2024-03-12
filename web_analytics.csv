@@ -1,0 +1,7 @@
+timestamp,user_id,page,referrer,device,location,duration
+2023-04-01 10:15:32,user1,/products/electronics,google.com,desktop,United States,120
+2023-04-01 10:20:45,user2,/products/clothing,facebook.com,mobile,Canada,45
+2023-04-01 10:25:12,user1,/cart,/products/electronics,desktop,United States,180
+2023-04-01 10:30:22,user3,/products/books,direct,tablet,United Kingdom,90
+2023-04-01 10:35:06,user2,/checkout,/cart,mobile,Canada,300
+2023-04-01 10:40:18,user4,/products/electronics,referral.com,desktop,Australia,65
